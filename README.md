@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is Teodor-Gabriel Oprescu's (netid: 5320992) Face Morphing project for TU Delft's CS4365 Applied Image Processing course. 
+This is Teodor-Gabriel Oprescu's Face Morphing project for TU Delft's CS4365 Applied Image Processing course. 
 [URL for GitLab Repository.](https://gitlab.ewi.tudelft.nl/cgv/cs4365/student-repositories/2023-2024/cs436523toprescu)
 
 # Features
